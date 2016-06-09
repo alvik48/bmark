@@ -1,0 +1,13 @@
+{
+  "name": "bmark",
+  "version": "1.0.0",
+  "description": "Small JS utility for time measurements",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvik48/bmark.git"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "author": "Aleksandr Kriuchkov <alvik48@gmail.com>",
+  "license": "MIT"
+}

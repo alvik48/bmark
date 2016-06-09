@@ -1,0 +1,28 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+# Edirors files
+.idea
+*.sublime*
+sftp-config.json
+
+# Node modules
+node_modules
+
+# Logs
+*.log
+*.gz
+
+# Temporary files
+tmp
