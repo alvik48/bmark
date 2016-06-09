@@ -1,6 +1,6 @@
 {
   "name": "bmark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small JS utility for time measurements",
   "repository": {
     "type": "git",
