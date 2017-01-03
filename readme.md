@@ -31,6 +31,9 @@ console.info('Elapsed time in ms: ' + bmark.stop().getElapsed());
 
 Go to: [Bmark.start](#bmarkstart), [Bmark.stop](#bmarkstop), [Bmark.reset](#bmarkreset), [Bmark.getElapsed](#bmarkgetelapsedformat).
 
+`Bmark` class constructor accepts input object. You can pass next options:
+  - `options.throwErrors<Boolean>`: if set to false, `Bmark` instance will not throw any errors. Default: `true`.
+
 All methods except `bmark.getElapsed()` returns current instance so you can chain method calls if you want. For example:
 
 ```js
